@@ -42,3 +42,16 @@
   }
 
   /* menuiconend */
+
+
+  /* name_Container */
+
+  .name_Container,.image_Container{
+    width: 50%;
+    height: 50vh;
+    background-color: red;
+    border-radius: 20px;
+  }
+
+
+  /* name_Container end */
