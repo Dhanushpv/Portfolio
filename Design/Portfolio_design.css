@@ -47,8 +47,15 @@
   /* name_Container */
 
   .name_Container,.image_Container{
-    width: 50%;
-    height: 50vh;
+    min-width: 100%;
+    height: 70vh;
+    background-color: red;
+    border-radius: 20px;
+  }
+
+  .image_subContainer{
+    min-width: 100%;
+    height: 40vh;
     background-color: red;
     border-radius: 20px;
   }
